@@ -80,6 +80,5 @@ public class BootstrapData implements CommandLineRunner {
 
         System.out.println("Publisher count:" +publisherRepository.count());
 
-
     }
 }
